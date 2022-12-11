@@ -9,7 +9,7 @@
   "author": "BloxyFists",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "noblox.js": "^4.2.6"
   }
 }
